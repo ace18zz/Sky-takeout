@@ -1,6 +1,4 @@
-Certainly, here is the translation formatted as a Markdown document:
 
-```markdown
 # Sky Takeout
 This project is an online food ordering system developed using the Spring Boot framework.
 
@@ -108,4 +106,4 @@ sky:
 ```
 
 - Run the project.
-```
+
