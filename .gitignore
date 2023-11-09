@@ -1,0 +1,8 @@
+**/target/
+.idea
+*.iml
+*.class
+*Test.java
+**/test/
+# 文件名包含dev
+*dev*
